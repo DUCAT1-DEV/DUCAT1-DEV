@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=141&color=4f3011&textBg=false"/>
+
 # 👋 Olá, eu sou Gabriel Ducati
 
 💻 Desenvolvedor **Fullstack** em constante aprendizado, focado em construir soluções práticas e eficientes.  
@@ -43,3 +45,4 @@ Aqui compartilho projetos, estudos e experiências no mundo da programação.
 ---
 
 ✨ Sempre aberto a novos desafios e colaborações!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=141&color=4f3011&textBg=false&section=footer"/>
