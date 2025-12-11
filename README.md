@@ -1,5 +1,5 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=141&color=4f3011&textBg=false"/>
+
 <img align="right" height="670" src="https://media.discordapp.net/attachments/968299495769129052/1283068071577128980/Ducati_revamp2.png?ex=693a2902&is=6938d782&hm=10d4883097f4477c4f76a9883a537bf489138f62474c7667bd08ab38f3839a4b&=&format=webp&quality=lossless&width=391&height=696">
 
   # 💫 Hey, I'm Gabriel Ducati  
@@ -49,10 +49,3 @@ Sempre aberto para colaborar em projetos, resolver problemas reais e construir p
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=141&color=4f3011&textBg=false&section=footer"/>
-
-
-
-
-
-<img align="left" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DUCAT1-DEV&theme=darcula"/>
-
